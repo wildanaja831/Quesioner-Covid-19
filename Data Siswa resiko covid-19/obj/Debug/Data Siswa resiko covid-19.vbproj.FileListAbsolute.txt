@@ -1,0 +1,11 @@
+c:\users\muhammad wildan f\documents\visual studio 2013\Projects\Data Siswa resiko covid-19\Data Siswa resiko covid-19\bin\Debug\Data Siswa resiko covid-19.exe.config
+c:\users\muhammad wildan f\documents\visual studio 2013\Projects\Data Siswa resiko covid-19\Data Siswa resiko covid-19\obj\Debug\Data_Siswa_resiko_covid_19.Resources.resources
+c:\users\muhammad wildan f\documents\visual studio 2013\Projects\Data Siswa resiko covid-19\Data Siswa resiko covid-19\obj\Debug\Data Siswa resiko covid-19.vbproj.GenerateResource.Cache
+c:\users\muhammad wildan f\documents\visual studio 2013\Projects\Data Siswa resiko covid-19\Data Siswa resiko covid-19\bin\Debug\Data Siswa resiko covid-19.exe
+c:\users\muhammad wildan f\documents\visual studio 2013\Projects\Data Siswa resiko covid-19\Data Siswa resiko covid-19\bin\Debug\Data Siswa resiko covid-19.pdb
+c:\users\muhammad wildan f\documents\visual studio 2013\Projects\Data Siswa resiko covid-19\Data Siswa resiko covid-19\bin\Debug\Data Siswa resiko covid-19.xml
+c:\users\muhammad wildan f\documents\visual studio 2013\Projects\Data Siswa resiko covid-19\Data Siswa resiko covid-19\obj\Debug\Data Siswa resiko covid-19.exe
+c:\users\muhammad wildan f\documents\visual studio 2013\Projects\Data Siswa resiko covid-19\Data Siswa resiko covid-19\obj\Debug\Data Siswa resiko covid-19.xml
+c:\users\muhammad wildan f\documents\visual studio 2013\Projects\Data Siswa resiko covid-19\Data Siswa resiko covid-19\obj\Debug\Data Siswa resiko covid-19.pdb
+c:\users\muhammad wildan f\documents\visual studio 2013\Projects\Data Siswa resiko covid-19\Data Siswa resiko covid-19\obj\Debug\Data_Siswa_resiko_covid_19.Form1.resources
+C:\Users\Muhammad Wildan F\Documents\Visual Studio 2013\Projects\Data Siswa resiko covid-19\Data Siswa resiko covid-19\obj\Debug\Data_Siswa_resiko_covid_19.Form2.resources
